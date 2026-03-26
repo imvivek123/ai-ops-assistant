@@ -70,10 +70,7 @@ Integration of machine learning with production systems
 Problem-solving for scalability and automation
 📬 Contact
 
-For any queries or collaboration:
 
-GitHub: https://github.com/imvivek123
-Email: (add your email here)
 ⭐ Contribute
 
 Feel free to fork this repository, raise issues, or submit pull requests to improve the project
